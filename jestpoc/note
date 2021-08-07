@@ -1,0 +1,33 @@
+mkdir testpk
+
+cd testpk
+
+npm init
+
+npm i express
+
+npm i nodemon
+
+npm install jest --save-dev
+
+npm install supertest --save-dev
+
+MongoDB
+
+sudo apt update
+
+sudo apt install -y mongodb
+
+Compass:
+https://www.mongodb.com/try/download/compass
+
+Reference:-
+
+https://jestjs.io/docs/expect#tobetruthy
+
+https://www.npmjs.com/package/supertest
+
+
+
+
+
